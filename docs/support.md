@@ -53,4 +53,9 @@ Resolution      | Video bit rate    | Audio bit rate    | Bit rate
 1080p           | 4.5Mb/s           | 320Kb/s           | 5.3Mb/s
 
 
+## Streaming profiles
+
+### HTTP Live Streaming (HLS)
+
+
 
